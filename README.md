@@ -1,6 +1,8 @@
 # ClientsAPI
 
 Using this database scheme, implemented with "database first"
+
+Technologies used: Entity Framework, Swagger
 ![image](https://github.com/user-attachments/assets/4b3e9246-0648-4b88-baf9-a49a6cc73db5)
 
 This API allows to use these endpoints:
